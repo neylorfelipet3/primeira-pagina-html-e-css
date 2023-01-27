@@ -1,0 +1,29 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(fundo.png);
+
+
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: white;
+
+}
+
+main {
+    background: #0000ff47;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.titulo, .titulo1, .titulo2, .titulo3 {
+    text-align: center;
+}
+.frase1 {
+    text-align: center;
+    background: #00000085;
+    border-radius: 30px;
+}
+
